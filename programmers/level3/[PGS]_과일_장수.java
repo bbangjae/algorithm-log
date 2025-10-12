@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class [PGS]_푸과일_장수 {
+public class [PGS]_과일_장수 {
     public static void main(String[] args) {
 
         int[] scores = { 4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2 };
